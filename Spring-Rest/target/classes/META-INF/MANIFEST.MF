@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring-Rest
+Implementation-Version: 1.0
+Built-By: techu
+Implementation-Vendor-Id: com.anurag
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Spring-Rest
+Created-By: Maven Integration for Eclipse
+
